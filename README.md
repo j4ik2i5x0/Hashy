@@ -57,7 +57,18 @@ Hashy is a command-line tool written in Python that allows users to generate has
 
 ### Usage:
 
+![Alt text](https://raw.githubusercontent.com/j4ik2i5x0/Hashy/main/img/Screenshot%202024-03-25%20002344.png)
+   Method-1: Enter the tool name in CLI
+  
+   ```bash
+   hashy
+   ```
+![Alt text](https://raw.githubusercontent.com/j4ik2i5x0/Hashy/main/img/Screenshot%202024-03-25%20005420.png)
+   Method-2: Enter the tool name with the options in CLI
 
+   ```bash
+   hashy -d helloworld -a sha512
+   ```
 
 
 > Note : If your script depends on any external libraries not included in the standard Python library, make sure to install them on your Kali Linux system using pip or the appropriate package manager before running the script.
