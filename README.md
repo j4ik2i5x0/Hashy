@@ -3,6 +3,7 @@
 ### Description:
 Hashy is a command-line tool written in Python that allows users to generate hashes using various hashing algorithms. It supports popular hashing algorithms such as MD5, SHA-1, SHA-256, bcrypt, Argon2, and more. This tool is useful for tasks involving data integrity verification, password hashing, and cryptographic operations.
 
+![Alt text](https://raw.githubusercontent.com/j4ik2i5x0/Hashy/main/img/Screenshot%202024-03-25%20002428.png)
 
 ### Features:
 - **Multiple Hashing Algorithms:** Supports a variety of hashing algorithms, including
